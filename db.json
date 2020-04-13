@@ -9,22 +9,7 @@
     "overview_cz": "Tato aplikace byla vytvorena pro testovani zobrazeni ruznych stranek v nativnim prohlizeci BlackBerry.",
     "icon_path": "https://i.postimg.cc/pL5JDNwK/icon-300x300.png",
     "images": [
-      {
-        "id": "0",
-        "images_path": "https://i.postimg.cc/Vk6yhcNR/screen-01.png"
-      },
-      {
-        "id": "1",
-        "images_path": "https://i.postimg.cc/446T75Mz/screen-02.png"
-      },
-      {
-        "id": "2",
-        "images_path": "https://i.postimg.cc/zXpZpfqv/screen-03.png"
-      },
-      {
-        "id": "3",
-        "images_path": "https://i.postimg.cc/dtJc8CPg/screen-04.png"
-      }
+      {"images_path": ""}
     ],
     "features": "Now you can keep up with your friends faster than ever. See what your friends are doing. Share updates, photos, and videos. Play games and use your favorite apps. Buy and sell locally via Facebook Marketplace. Facebook is only available to users over the age of 13.",
     "features_cz": "Sledujte co dělají vaši přatelé. Facebook je dostupný pouze pro starší 13 let."
